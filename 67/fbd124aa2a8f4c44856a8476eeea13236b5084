@@ -1,0 +1,19 @@
+src/plugins/blurNsfw/index.ts
+  s_cbbe1a81701272::t_6f4b867cd6edcf 25,65-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "67fbd124aa2a8f4c44856a8476eeea13236b5084",
+  "prompts": {},
+  "sessions": {
+    "s_cbbe1a81701272": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b39c-3bb6-7f22-8755-60aef81d647a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
